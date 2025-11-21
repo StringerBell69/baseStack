@@ -1,0 +1,52 @@
+{
+  "common": {
+    "welcome": "Bienvenue",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "auth": {
+    "loginTitle": "Connectez-vous à votre compte",
+    "loginDescription": "Entrez votre email ci-dessous pour vous connecter",
+    "signupTitle": "Créer un compte",
+    "signupDescription": "Entrez vos informations pour créer un compte",
+    "forgotPassword": "Mot de passe oublié?",
+    "dontHaveAccount": "Vous n'avez pas de compte?",
+    "alreadyHaveAccount": "Vous avez déjà un compte?",
+    "orContinueWith": "Ou continuer avec",
+    "loginWithGoogle": "Se connecter avec Google",
+    "signupWithGoogle": "S'inscrire avec Google"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue sur votre tableau de bord",
+    "overview": "Vue d'ensemble",
+    "files": "Fichiers",
+    "messages": "Messages",
+    "calendar": "Calendrier",
+    "billing": "Facturation",
+    "settings": "Paramètres",
+    "totalUsers": "Utilisateurs totaux",
+    "revenue": "Revenu",
+    "activeNow": "Actifs maintenant",
+    "conversion": "Conversion"
+  },
+  "errors": {
+    "somethingWentWrong": "Quelque chose s'est mal passé",
+    "tryAgain": "Veuillez réessayer",
+    "unauthorized": "Vous n'êtes pas autorisé à accéder à cette ressource"
+  }
+}
