@@ -1,0 +1,52 @@
+{
+  "common": {
+    "welcome": "Bienvenido",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  },
+  "auth": {
+    "loginTitle": "Inicia sesión en tu cuenta",
+    "loginDescription": "Ingresa tu correo electrónico para iniciar sesión",
+    "signupTitle": "Crear una cuenta",
+    "signupDescription": "Ingresa tu información para crear una cuenta",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "orContinueWith": "O continuar con",
+    "loginWithGoogle": "Iniciar sesión con Google",
+    "signupWithGoogle": "Registrarse con Google"
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "welcome": "Bienvenido a tu panel de control",
+    "overview": "Resumen",
+    "files": "Archivos",
+    "messages": "Mensajes",
+    "calendar": "Calendario",
+    "billing": "Facturación",
+    "settings": "Configuración",
+    "totalUsers": "Usuarios totales",
+    "revenue": "Ingresos",
+    "activeNow": "Activos ahora",
+    "conversion": "Conversión"
+  },
+  "errors": {
+    "somethingWentWrong": "Algo salió mal",
+    "tryAgain": "Por favor, inténtalo de nuevo",
+    "unauthorized": "No estás autorizado para acceder a este recurso"
+  }
+}

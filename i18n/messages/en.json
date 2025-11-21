@@ -1,0 +1,52 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Log Out",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "auth": {
+    "loginTitle": "Login to your account",
+    "loginDescription": "Enter your email below to login to your account",
+    "signupTitle": "Create an account",
+    "signupDescription": "Enter your information to create an account",
+    "forgotPassword": "Forgot your password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "orContinueWith": "Or continue with",
+    "loginWithGoogle": "Login with Google",
+    "signupWithGoogle": "Sign up with Google"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to your dashboard",
+    "overview": "Overview",
+    "files": "Files",
+    "messages": "Messages",
+    "calendar": "Calendar",
+    "billing": "Billing",
+    "settings": "Settings",
+    "totalUsers": "Total Users",
+    "revenue": "Revenue",
+    "activeNow": "Active Now",
+    "conversion": "Conversion"
+  },
+  "errors": {
+    "somethingWentWrong": "Something went wrong",
+    "tryAgain": "Please try again",
+    "unauthorized": "You are not authorized to access this resource"
+  }
+}
